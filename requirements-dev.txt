@@ -1,3 +1,4 @@
+git+https://github.com/PennyLaneAI/pennylane.git@master
 build
 ninja
 pybind11
@@ -18,4 +19,3 @@ cmake
 custatevec-cu12
 cutensornet-cu12
 pylint==2.7.4
-git+https://github.com/PennyLaneAI/pennylane.git@master
